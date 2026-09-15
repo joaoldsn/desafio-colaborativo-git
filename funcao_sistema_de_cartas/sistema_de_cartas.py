@@ -6,3 +6,7 @@ class Carta: # Cria uma classe chamada Carta. A classe funciona como um "molde" 
 
     def estar_viva(self): # Cria um método chamado esta_viva(), que serve para verificar se a carta ainda está viva.
         return self.defesa > 0   # Se a defesa for maior que 0, retorna True. Se a defesa for 0 ou menor, retorna False.
+    
+    def __str__(self): # O __str__ define como o objeto será mostrado quando usamos print(carta).
+        return f"{self.nome} - ATK: {self.ataque} | DEF: {self.defesa}" #mostrará as informações da carta na seguinte ordem: nome, ataque e defesa.
+
