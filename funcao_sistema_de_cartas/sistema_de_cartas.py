@@ -3,3 +3,6 @@ class Carta: # Cria uma classe chamada Carta. A classe funciona como um "molde" 
         self.nome = nome   # self = representa a própria carta que está sendo criada
         self.ataque = ataque
         self.defesa = defesa
+
+    def esta_viva(self): # Cria um método chamado esta_viva(), que serve para verificar se a carta ainda está viva.
+        return self.defesa > 0   # Se a defesa for maior que 0, retorna True. Se a defesa for 0 ou menor, retorna False.
