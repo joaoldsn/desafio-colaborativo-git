@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <strong>Projeto desenvolvido para praticar desenvolvimento colaborativo utilizando Python, Git e GitHub.</strong>
+  <strong>Projeto desenvolvido para desenvolver coisas para para praticar desenvolvimento colaborativo utilizando Python, Git e GitHub.</strong>
 </p>
 
 ---
