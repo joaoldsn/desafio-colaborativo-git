@@ -7,11 +7,7 @@
 </p>
 
 <p align="center">
-<<<<<<< HEAD
-  <strong>Projeto desenvolvido para desenvolver o desenvolvimento colaborativo utilizando C, Git e GitHub.</strong>
-=======
   <strong>Projeto desenvolvido para desenvolver coisas para para praticar desenvolvimento colaborativo utilizando Python, Git e GitHub.</strong>
->>>>>>> 8fab39bca57922b464cbd4945e6aeaf72436fd4a
 </p>
 
 ---
